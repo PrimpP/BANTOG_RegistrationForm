@@ -1,0 +1,120 @@
+th,td{
+    text-align: left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.table1 tr{
+    color: red;
+}
+.table1 tr td{
+    font-size: 13px;
+}
+
+#regForm{
+    font-size: 22px;
+    padding-right: 40px;
+}
+
+#mnl,#ue{
+    font-size: 17px;
+}
+
+.black{
+    color: black;
+}
+
+.table2{
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+
+.table2 .head th{
+    padding-left: 30px;
+}
+
+.table2 .red{
+    color: red;
+    padding-left: 30px;
+}
+
+.table2 .left{
+    padding-left: 10px;
+}
+
+#candidate{
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 1.5em;
+}
+
+#university{
+    padding-bottom: 30px;
+    text-align: right;
+    padding-right: 5.8em;
+}
+
+#school{
+    color: red;
+    text-align: center;
+}
+
+#schedule{
+    text-align: right;
+}
+
+#descriptive, #particulars, #payment{
+    text-align: center;
+}
+
+#total ,#money{
+    padding-bottom: 60px;
+}
+
+#name{
+    line-height: 50px;
+}
+
+#twentyThree{
+    padding-left: 31em;
+}
+
+#ccss{
+    padding-left: 3.1em;
+}
+
+.top{
+    padding-top: 20px;
+}
+
+.borderBot{
+    border-bottom: 1px solid black;
+}
+
+.head{
+    background-color: red;
+}
+
+.head th{
+    color: white;
+}
+
+.right2{
+    padding-left: 11.60em;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+caption{
+    line-height: 60px;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+    text-align: left;
+}
+.table3{
+    padding-right: 38em;
+}
